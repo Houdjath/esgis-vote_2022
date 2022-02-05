@@ -18,7 +18,9 @@
         <div>
             <?php
             //Contenu de la page
-            require_once('../esgisvote/content.php');
+            // require_once('../esgisvote/content.php');
+            //  include_once('index2.php');
+            include_once('config.php');
             ?>
         </div>
         <div>
